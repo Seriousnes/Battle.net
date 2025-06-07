@@ -1,0 +1,11 @@
+namespace Battle.net.WorldOfWarcraft.Functions.GameData;
+
+public partial class {{CLASS_NAME}}Function(IApiRequestExecutor api) : BaseFunction(api), I{{CLASS_NAME}}Function
+{
+{{METHODS}}
+}
+
+public partial interface I{{CLASS_NAME}}Function
+{
+{{INTERFACE_METHODS}}
+}

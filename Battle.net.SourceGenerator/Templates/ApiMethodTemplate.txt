@@ -1,0 +1,4 @@
+    public {{RETURN_TYPE}} {{METHOD_NAME}}({{PARAMETERS}})
+    {
+        return ApiRequest<{{RETURN_TYPE}}>("{{API_PATH}}"{{BASE_PARAMETERS}});
+    }

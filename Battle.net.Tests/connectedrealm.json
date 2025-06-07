@@ -1,0 +1,112 @@
+{
+  "_links": { "self": { "href": "https://us.api.blizzard.com/data/wow/connected-realm/3725?namespace=dynamic-us" } },
+  "id": 3725,
+  "has_queue": false,
+  "status": {
+    "type": "UP",
+    "name": "Up"
+  },
+  "population": {
+    "type": "FULL",
+    "name": "Full"
+  },
+  "realms": [
+    {
+      "id": 3725,
+      "region": {
+        "key": { "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us" },
+        "name": "North America",
+        "id": 1
+      },
+      "connected_realm": { "href": "https://us.api.blizzard.com/data/wow/connected-realm/3725?namespace=dynamic-us" },
+      "name": "Frostmourne",
+      "category": "Oceanic",
+      "locale": "enUS",
+      "timezone": "Australia/Melbourne",
+      "type": {
+        "type": "NORMAL",
+        "name": "Normal"
+      },
+      "is_tournament": false,
+      "slug": "frostmourne"
+    },
+    {
+      "id": 3733,
+      "region": {
+        "key": { "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us" },
+        "name": "North America",
+        "id": 1
+      },
+      "connected_realm": { "href": "https://us.api.blizzard.com/data/wow/connected-realm/3725?namespace=dynamic-us" },
+      "name": "Dreadmaul",
+      "category": "Oceanic",
+      "locale": "enUS",
+      "timezone": "Australia/Melbourne",
+      "type": {
+        "type": "NORMAL",
+        "name": "Normal"
+      },
+      "is_tournament": false,
+      "slug": "dreadmaul"
+    },
+    {
+      "id": 3724,
+      "region": {
+        "key": { "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us" },
+        "name": "North America",
+        "id": 1
+      },
+      "connected_realm": { "href": "https://us.api.blizzard.com/data/wow/connected-realm/3725?namespace=dynamic-us" },
+      "name": "Thaurissan",
+      "category": "Oceanic",
+      "locale": "enUS",
+      "timezone": "Australia/Melbourne",
+      "type": {
+        "type": "NORMAL",
+        "name": "Normal"
+      },
+      "is_tournament": false,
+      "slug": "thaurissan"
+    },
+    {
+      "id": 3736,
+      "region": {
+        "key": { "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us" },
+        "name": "North America",
+        "id": 1
+      },
+      "connected_realm": { "href": "https://us.api.blizzard.com/data/wow/connected-realm/3725?namespace=dynamic-us" },
+      "name": "Jubei'Thos",
+      "category": "Oceanic",
+      "locale": "enUS",
+      "timezone": "Australia/Melbourne",
+      "type": {
+        "type": "NORMAL",
+        "name": "Normal"
+      },
+      "is_tournament": false,
+      "slug": "jubeithos"
+    },
+    {
+      "id": 3737,
+      "region": {
+        "key": { "href": "https://us.api.blizzard.com/data/wow/region/1?namespace=dynamic-us" },
+        "name": "North America",
+        "id": 1
+      },
+      "connected_realm": { "href": "https://us.api.blizzard.com/data/wow/connected-realm/3725?namespace=dynamic-us" },
+      "name": "Gundrak",
+      "category": "Oceanic",
+      "locale": "enUS",
+      "timezone": "Australia/Melbourne",
+      "type": {
+        "type": "NORMAL",
+        "name": "Normal"
+      },
+      "is_tournament": false,
+      "slug": "gundrak"
+    }
+  ],
+  "mythic_leaderboards": { "href": "https://us.api.blizzard.com/data/wow/connected-realm/3725/mythic-leaderboard/?namespace=dynamic-us" },
+  "auctions": { "href": "https://us.api.blizzard.com/data/wow/connected-realm/3725/auctions?namespace=dynamic-us" }
+}
